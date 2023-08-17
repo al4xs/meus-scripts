@@ -8,7 +8,7 @@ import os
 os.system("exo-open --launch WebBrowser 'web.whatsapp.com'")
 time.sleep(30)
 
-while true:
+while True:
 	flood.write('sua mensagem aqui')
-	fload.press('enter')
+	flood.press('enter')
 	time.sleep(1)
