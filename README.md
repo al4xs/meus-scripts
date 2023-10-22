@@ -13,7 +13,7 @@ Fique a vontade para modificar e contribuir!
  <sub><b>Al4xs</b></sub></a> <a href="http://al4xs.github.io/" title="Github Personal Blog">🚀</a>
  <br />
 
-[![Twitter Badge](https://img.shields.io/badge/-@michaelferral4xs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Twitter Badge](https://img.shields.io/badge/-@michaelferral4xs-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/tgmarinho) [![Linkedin Badge](https://img.shields.io/badge/-Al4xs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
 [![Gmail Badge](https://img.shields.io/badge/-@al4xs@protonmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:al4xs@protonmail.com)](mailto:al4xs@protonmail.com)
 
 ---
