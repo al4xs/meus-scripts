@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for i in $(seq 1 254); do
+p1=$(ping -c 1 $1.$i | grep "ttl=64" | cut -d " " -f 6)
+if [ "$p1" == "ttl=64" ]; then
+    echo "Maquina" $1.$i "LIGADA"
+else
+    echo "Maquina" $1.$i "DESLIGADA"
+fi
+done
